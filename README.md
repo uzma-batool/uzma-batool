@@ -2,12 +2,12 @@
 # Uzma Batool 👩‍💻
 
 🎓 Computer Science Student at Ghazi University, Dera Ghazi Khan  
-💻 Learning Python and Digital Logic Design  
-🔬 Interested in Proteus simulations and Boolean Algebra  
-🌱 Beginner in coding, practicing step by step  
+💻 Currently learning Python basics and practicing coding  
+🌱 Beginner in programming, exploring step by step  
 
 ---
 ✨ “Learning never stops — one code at a time.”
+
 
 <!--
 **uzma-batool/uzma-batool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
